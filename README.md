@@ -1,9 +1,9 @@
 一个简单的phpsdk用于ge.tt
-
-使用：
-1.创建一个app http://ge.tt/developers/create
-2.获取apikey  http://ge.tt/developers/myapps
-3.打开ge.tt.class.php，填写信息
-4.Enjoy！
-
-有问题可联系：mail@YISI.us
+<br />
+使用：<br />
+1.创建一个app http://ge.tt/developers/create<br />
+2.获取apikey  http://ge.tt/developers/myapps<br />
+3.打开ge.tt.class.php，填写信息<br />
+4.Enjoy！<br />
+<br />
+作者：mail@YISI.us
